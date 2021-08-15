@@ -32,9 +32,9 @@ p { color: white; font-size: 20px; margin: 35px auto; }
 
 
 
-@media only screen and (max-width: 960px) {
+@media (min-width: 320px) and (max-width: 480px){
     .formulario{
-        width: 45%;
+        width: 75%;
     }
 }
 
